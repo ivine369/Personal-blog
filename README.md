@@ -16,10 +16,12 @@
  There are no known bugs but contact me via email if you do see one.
 
 #### Technologies Used
+
  * HTML
  * CSS/Bootstrap
  * Python
  * Heroku
+ 
 ### BDD
 #### Business Logic
  An application that will help me document my interests and get reviews from others of my becoming.
